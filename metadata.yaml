@@ -1,0 +1,34 @@
+_repo: Getting-to-know-Spain_29591
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lambo, Don
+    alias: Lombo, Don
+    gutenberg_agent_id: '34016'
+    url: http://www.gutenberg.org/2009/agents/34016
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Dee
+    gutenberg_agent_id: '34015'
+    url: http://www.gutenberg.org/2009/agents/34015
+description: Spain, rich in color and heritage, is described for the young reader.
+  The emphasis is on present-day conditions, but the influence of early invaders and
+  of early history is mentioned.
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29591'
+  lccn: '57007427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Juvenile literature'
+- !lcc 'DP'
+- !lcsh 'Spain -- Description and travel'
+title: Getting to know Spain
+url: http://www.gutenberg.org/ebooks/29591
